@@ -1,3 +1,4 @@
+winget install 'Microsoft PC Manager(Beta)' --accept-source-agreements
 winget install 'Epic Games Launcher' --accept-source-agreements
 winget install 'GOG Galaxy' --accept-source-agreements
 winget install 'Xbox' --accept-source-agreements
