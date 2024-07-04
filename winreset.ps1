@@ -3,5 +3,6 @@ choco install discord
 choco install --ignore-checksums steam
 choco install --ignore-checksums geforce-experience
 
-winget install 'Microsoft PC Manager(Beta)' --accept-source-agreements
-winget install 'Xbox' --accept-source-agreements
+winget install microsoft.pcmanager --accept-source-agreements
+winget install telegram --accept-source-agreements
+winget install xbox --accept-source-agreements
